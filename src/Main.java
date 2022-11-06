@@ -10,7 +10,7 @@ public class Main {
         */
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("You are playing the game");
+        System.out.println("You are playing a car game");
 
         String input = scanner.nextLine();
 
