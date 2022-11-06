@@ -10,15 +10,15 @@ public class Main {
         */
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("You are playing a football");
+        System.out.println("You are playing the game");
 
         String input = scanner.nextLine();
 
         if (!input.equals("q") && !input.equals("Q")) {
-            System.out.println("You are still playing the football");
+            System.out.println("You are still playing the game");
         }
         else {
-            System.out.println("You have exited the football");
+            System.out.println("You have exited the game");
         }
 
     }
