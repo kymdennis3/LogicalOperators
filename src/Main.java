@@ -14,7 +14,7 @@ public class Main {
 
         String input = scanner.nextLine();
 
-        if (!input.equals("q") && !input.equals("Q")) {
+        if (!input.equals("p") && !input.equals("P")) {
             System.out.println("You are still playing the game");
         }
         else {
