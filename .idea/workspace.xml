@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674934287649</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Introduced the NOT(!) and AND(&amp;&amp;) operators in the code">
+      <created>1675016865259</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675016865259</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
